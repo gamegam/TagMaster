@@ -1,0 +1,5 @@
+name: TagMaster
+main: yulla1234\TagMaster\TagMaster
+version: 1.0.0
+api: [3.11.5]
+author: yulla1234
